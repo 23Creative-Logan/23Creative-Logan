@@ -1,32 +1,44 @@
-# Hi there 👋  
+<h1 align="left">Hello!</h1>
 
-**Logan Baird-Levenick** – part of **23 Creative**, an indie game studio founded by Z1n3x.
+###
 
----
+<img width="1280" height="320" alt="23BannerLogan" src="https://github.com/user-attachments/assets/3c52b106-bf59-4c40-a1ec-d642f15b5814" />
 
-I work on **game systems, and technical infrastructure**, focusing on scalable, modular, and maintainable solutions.
+<h2 align="left">About me</h2>
 
----
+###
 
-### 🛠 Skills
-- Game & Application Systems  
-- Software Architecture & Frameworks  
-- Programming & Scripting  
+<p align="left">Logan<br> Indie Dev & Co-Founder at 23 Creative<br>Messing with web dev lately<br>Hit me up about projects or ideas</p>
 
----
+###
 
-### ⚙️ Tools
-<img width="800" height="800" alt="UE5" src="https://github.com/user-attachments/assets/517e195e-a7a6-491b-932c-85b2415298e1" /> <img width="900" height="900" alt="C++" src="https://github.com/user-attachments/assets/c760d118-7059-4545-9a32-c01275d6b522" /> <img width="577" height="433" alt="Jetbrains" src="https://github.com/user-attachments/assets/9da4854e-c0cb-4692-ba98-cb93945f50ea" /> 
+<h2 align="left">Tools</h2>
 
----
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" height="40" alt="unrealengine logo"  />
+</div>
 
+###
 
-### 🌱 Currently Learning
-- Web development frameworks  
+<h2 align="left">Where you can find me</h2>
 
----
+###
 
-### 📫 Connect
-- Email: logan@23creativegames.com   
-- GitHub: [github.com/23creative-logan](https://github.com/23creative-logan)
+<div align="left">
+  <a href="https://discord.com/users/693717618166595603" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/logan.levenick" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
