@@ -2,7 +2,7 @@
 
 ###
 
-<img width="1280" height="320" alt="23BannerLogan" src="https://github.com/user-attachments/assets/3c52b106-bf59-4c40-a1ec-d642f15b5814" />
+<img width="1280" height="320" alt="23BannerLogan" src="https://github.com/user-attachments/assets/0a855853-1dce-48f1-843a-14b2b3ed1a0f" />
 
 <h2 align="left">About me</h2>
 
